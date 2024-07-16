@@ -49,6 +49,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
 Enter the city name or coordinates (lat,lon): chennai
 Temperature: 30.97°C
 Weather Conditions: haze
